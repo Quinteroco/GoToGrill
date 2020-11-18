@@ -1,0 +1,50 @@
+.navbar p{
+    color: white;
+    text-transform: uppercase;
+}
+
+.navbar .navbar-brand {
+    color: white;
+    text-transform: uppercase;
+}
+
+#background-menu {
+    background-image: url(assets/images/menú.jpg);
+}
+
+.card-columns .card {
+    background-color: transparent;
+}
+
+.list-group .list-group-item {
+    background-color: #ad3d3b;
+}
+
+.card-columns .card-title {
+    color: white;
+}
+
+.card-columns p{
+    color: white;
+}
+
+#delivery-gtg {
+    background-image: url(assets/images/final2.png);
+}
+
+#delivery-gtg img {
+    width: 220px;
+    height: 120px;
+}
+
+.text-delivery h5 p {
+    color: white;
+}
+
+#footer {
+    background: linear-gradient(90deg,#6f1d1b,#432818 45%,#bb9457 );
+  }
+  
+  #footer a {
+    color: white
+  }
